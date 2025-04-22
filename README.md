@@ -26,5 +26,6 @@ A **Agenda de Contactos** é uma aplicação simples e prática para gerir conta
 
 ---
 
-## 📂 Estrutura do Projeto
+
+
 
