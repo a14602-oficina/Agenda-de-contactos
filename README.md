@@ -25,15 +25,5 @@ A **Agenda de Contactos** é uma aplicação intuitiva e leve para gerir os teus
 - **Armazenamento:** JSON, SQLite, ou MongoDB
 - **Outras bibliotecas:** `os`, `json`, `sqlite3`, `flask`, `express`, etc.
 
----
-
-## 🚀 Como Executar o Projecto
-
-### 1. Clonar o repositório
-
-```bash
-git clone https://github.com/teu-utilizador/agenda-de-contactos.git
-cd agenda-de-contactos
-
 
 
