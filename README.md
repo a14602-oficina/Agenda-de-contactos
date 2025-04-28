@@ -11,8 +11,8 @@ A **Agenda de Contactos** é uma aplicação intuitiva e leve para gerir os teus
 - 📋 Listar todos os contactos guardados
 - ✏️ Editar dados de contactos existentes
 - 🗑️ Remover contactos com confirmação
-- 💾 Guardar dados localmente (JSON ou base de dados)
-- 🔐 Validação de dados (formato de email, número de telefone)
+- 💾 Guardar dados localmente (base de dados)
+- 🔐 Validação de dados (formato dos caracteres, número de telefone)
 
 ---
 
