@@ -6,24 +6,22 @@ A **Agenda de Contactos** é uma aplicação intuitiva e leve para gerir os teus
 
 ## ✨ Funcionalidades
 
-- ✅ Adicionar novos contactos (nome, telefone, email)
+- ✅ Adicionar novos contactos (nome, telefone)
 - 🔍 Pesquisar contactos por qualquer campo
 - 📋 Listar todos os contactos guardados
 - ✏️ Editar dados de contactos existentes
 - 🗑️ Remover contactos com confirmação
 - 💾 Guardar dados localmente (JSON ou base de dados)
 - 🔐 Validação de dados (formato de email, número de telefone)
-- 📂 Separação por categorias ou grupos (ex: pessoal, trabalho) [opcional]
-- 📈 Contador de contactos e data de última modificação
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem principal:** Python / JavaScript / outra
-- **Interface:** Terminal, Tkinter ou React
-- **Armazenamento:** JSON, SQLite, ou MongoDB
-- **Outras bibliotecas:** `os`, `json`, `sqlite3`, `flask`, `express`, etc.
+- **Linguagem principal:** PHP / CSS / HTML
+- **Interface:** alojamento-gratis.com
+- **Armazenamento:** filemanager.ai
+
 
 
 
